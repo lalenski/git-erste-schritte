@@ -9,3 +9,5 @@ Ich habe gelernt, wie man Dateien versioniert und Änderungen nachverfolgt.
 - Branch: eigener Entwicklungszweig, um Änderungen getrennt zu testen
 
 Ich nutze Git, um meine Arbeit sauber zu dokumentieren.
+
+- Pull Request: Vorschlag, Änderungen in einen anderen Branch zu übernehmen
